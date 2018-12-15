@@ -27,3 +27,5 @@ gst-inspect-1.0 rpicamsrc to get an idea of the properties that have been
 implemented.
 
 See the REQUIREMENTS file for the full list of build requirements.
+
+See the WIKI for additional information https://github.com/thaytan/gst-rpicamsrc/wiki
